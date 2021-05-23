@@ -8,6 +8,8 @@ pwd : Exit status 0.
 
 my pwd : Exit status 1.
 
+'ls' command options(-l,-f,-F,-a,-R,-d,-t,-h,-al)
+
 This shell can go higher directory but can't go lower directory...
 
 If you want to go to higher directory just input directory name( Directory that actually exists ).
