@@ -1,6 +1,6 @@
 # my_shell
 
-Coded on Ubuntu18.04 +
+Coded on Ubuntu18.04 + ROS
 
 This shell has (exit,ls,clear,pwd,my pwd) function
 
